@@ -1,6 +1,10 @@
 # 🚀 Networking Configurations & Server Administration
 
-![Networking](images/network_topology.png)
+## 📄 Network Labs Documentation
+
+🔹 **[Download Full Lab Report (PDF)](https://github.com/pursottam1234/Networking-configurations/blob/main/CN-Cisco.pdf)**
+
+![Networking](topology.jpg)
 
 This repository contains **networking configuration files and setups** using **Cisco Packet Tracer** and **various server configurations** (FTP, Email, Web, DNS, Firewall). It is designed for **practical networking implementations**, helping in **routing, switching, and security configurations**.
 
